@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calcul des mensualités</string>
+    <string name="txt_capital">Capital Emprunté</string>
+    <string name="txt_taux">Taux annuel (%)</string>
+    <string name="txt_annees">Nombre d\'années</string>
+    <string name="button_name">Calcul des mensualités</string>
+    <string name="result">Résultat :</string>
+</resources>
